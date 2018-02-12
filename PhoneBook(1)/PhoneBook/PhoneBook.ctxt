@@ -18,4 +18,6 @@ comment7.params=name
 comment7.target=Person\ getPersonByName3(java.lang.String)
 comment8.params=
 comment8.target=void\ fillPhoneBookWithPersons()
-numComments=9
+comment9.params=
+comment9.target=void\ test()
+numComments=10

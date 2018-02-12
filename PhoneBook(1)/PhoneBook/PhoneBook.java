@@ -100,4 +100,9 @@ public class PhoneBook
         listOfPersons.add( new Person("Trude Lutt", "672673272"));
         listOfPersons.add( new Person("Inge N. Hjemme", "88787322"));
     }
+    
+    void test()
+    {
+      // dsfsdfsdf   
+    }
 }

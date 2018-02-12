@@ -4,9 +4,9 @@ Tell the reader (someone who does not know anything about this project)
 all he/she needs to know. The comments should usually include at least:
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
+PROJECT TITLE: bladkiosk
+PURPOSE OF PROJECT: prosjekt oppgave i objektiv
+VERSION or DATE: 1
 HOW TO START THIS PROJECT:
-AUTHORS:
+AUTHORS: Finn-c, Even og Kristine
 USER INSTRUCTIONS:
